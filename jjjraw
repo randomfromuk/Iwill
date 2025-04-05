@@ -1,1 +1,2 @@
 start cmd.exe
+taskkill /f /im cmd.exe
