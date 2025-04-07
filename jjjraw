@@ -1,1 +1,1 @@
-shutdown /p
+start cmd.exe
